@@ -1,0 +1,23 @@
+{
+  "name": "nodedata",
+  "version": "1.0.0",
+  "description": "node mongo data input example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongo",
+    "node",
+    "js",
+    "demo",
+    "fun"
+  ],
+  "author": "Urusa Saiyed",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.4"
+  }
+}
